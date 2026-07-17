@@ -24,7 +24,7 @@ This project showcases my skills, projects, and experience through a clean, resp
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/tailwind-portfolio.git
+git clone https://github.com/dinazangeneh/tailwind-portfolio.git
 ```
 
 2. Open the project folder.
